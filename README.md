@@ -85,7 +85,6 @@ An example environment file is included as `.env.example`. Rename it to `.env` (
 
 ```
 PROJECT_DIRECTORY=/absolute/path/to/your/target/project
-
 ```
 
 - If no directory is provided in the front-end form, the app uses `PROJECT_DIRECTORY` from `.env`.
